@@ -174,7 +174,7 @@ elif page == 'Analisis Pertanyaan UAS':
 
 
 elif page == 'Trend/Poin yang menarik':
-    st.header("Trend/Poin yang menarik Menarik dari Data")
+    st.header("Trend/Poin yang Menarik dari Data")
     
     # Tren penjualan bulanan
     st.subheader("Tren Jumlah Transaksi Bulanan")
